@@ -6,13 +6,11 @@ The user changes an input value for transforming an object, and the CST updates 
 
 ### Important Considerations
 
-1. Something to note about part or all of this use case
-2. Another thing to keep in mind.
-3. Etc.
+1. Object rendering should update immediately, as input is changed
 
 ## Conversations
 
-**Happy Path** - Alt: In ViewValid User Input\
+**Happy Path** - Alt: In View Valid User Input\
 **Actor:** User
 
 User Action | System Response
@@ -20,7 +18,6 @@ User Action | System Response
 User enters a valid value in an input field | .
 . | CST verifies input is valid
 . | CST updates rendering of placed objects to reflect the changed value
-actor does something else<sup>2</sup> | .
 
 --- 
 <br>
