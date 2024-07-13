@@ -1,4 +1,3 @@
-HEAD
 ### Tasks
 * Analysis +3
 * Make new UI layout (have parent panel to hold all other UI elements?) +2
@@ -8,4 +7,3 @@ HEAD
 
 ### Notes
 * 7/13 - Analysis and design doc updates will be put on hold, due to analysis paralysis. Focus will be put into development spike, as major analyis questions so far have been answered. 
- c28c3ff884743804904c17e30226ee02960d55ec
